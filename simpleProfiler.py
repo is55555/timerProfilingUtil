@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+
+# IS 2017 (MIT licence)
+# https://github.com/is55555/timerProfilingUtil
+
 from __future__ import print_function
 
 import functools
